@@ -13,10 +13,12 @@ import com.sf.minesweeper.frame.SartFrame;
 import com.sf.minesweeper.listener.MineMenuListener;
 import com.sf.minesweeper.tools.Tools;
 
+/**
+ * Created by 王宇凤 on 2018/6/21.
+ * 菜单
+ */
+
 public class MineMenu extends JMenuBar {
-	/**
-	 * 
-	 */
 
 	private static final long serialVersionUID = -5997735339754706915L;
 	//SartFrame sartFrame;
