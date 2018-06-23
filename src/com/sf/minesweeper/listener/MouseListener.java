@@ -1,4 +1,4 @@
-package com.sf.minesweeper.listener;
+﻿package com.sf.minesweeper.listener;
 
 import java.awt.event.InputEvent;
 import java.awt.event.MouseAdapter;
@@ -16,8 +16,8 @@ public class MouseListener extends MouseAdapter {
 	/**
 	 * 标记雷区点击次数,第一次游戏开始
 	 */
-	private int mousePressedCount;            // 鼠标点击的次数
-	private int expendedCount;                 //雷块展开的数量
+	private int mousePressedCount;            // 鼠标点击次数
+	private int expendedCount;                 //雷块展开数量
 	// MineField mineField;
 	
 	SartFrame sartframe;
